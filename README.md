@@ -11,4 +11,4 @@ I am using the iterator software to save files as "python_closures"
 ![](assets/using_snip_tool.png)
 
 so everytime I take a screenshot, I just press hotkey (ctrl+1). Iteator saves the files like this
-![](assets/how_it_saved.png)
+![](assets/how_it_saved.PNG)
