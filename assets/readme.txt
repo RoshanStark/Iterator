@@ -1,1 +1,1 @@
-place image and icon in the same folder to work
+place image and icon in the same folder where iterator.py is placed
